@@ -1,4 +1,4 @@
-# React Typescript Appointment Booking App
+# React TypeScript Appointment Booking App
 
 This repository contains the source code for an appointment booking application built with React, TypeScript, and Supabase. The application allows users to view available appointments, book an appointment, and cancel an existing appointment.
 
